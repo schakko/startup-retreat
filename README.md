@@ -94,6 +94,9 @@ Your product needs a team to fulfil the product's mission.
 Develop a culture to get new employees to be attracted with the team.
 
 ## Session 5 - Marketing/Sales
+### Goal
+Develop a marketing or sales strategy to get new customers.
+
 ## Session 6 - Competition
 ### Goal
 A new competitor enters the market. React to it.
